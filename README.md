@@ -42,12 +42,16 @@ I enjoy developing full-stack web applications, working with modern technologies
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
 </p>
 
 **Libraries & Frameworks:**
-
 `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+
 
 ### 🗄️ Database
 
@@ -129,17 +133,35 @@ Data Science
 
 ## 📫 Connect With Me
 
-<p>
+<p align="left">
+
   <a href="https://www.linkedin.com/in/shashank-shekhar-a89a3432b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://x.com/Shashan37269447">
+    <img src="https://img.shields.io/badge/Twitter-Connect-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="mailto:shashanksahai123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/shashank_shekhar_3?igsh=MTU1dWR0bzExbHBkZw==">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
 </p>
+
 
 ---
 
 ## 💭 Quote
 
-> **"The best way to predict the future is to create it."**
+> **“We can only see a short distance ahead, but we can see plenty there that needs to be done.”**
+>
+> — **Alan Turing**
+
 
 ---
 
