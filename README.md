@@ -131,27 +131,24 @@ Data Science
 
 ---
 
+
 ## 📫 Connect With Me
 
-<p align="left">
+<a href="https://www.linkedin.com/in/shashank-shekhar-a89a3432b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/shashank-shekhar-a89a3432b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://x.com/Shashan37269447">
+  <img src="https://img.shields.io/badge/Twitter-Connect-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-  <a href="https://x.com/Shashan37269447">
-    <img src="https://img.shields.io/badge/Twitter-Connect-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+<a href="mailto:shashanksahai123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="mailto:shashanksahai123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/shashank_shekhar_3?igsh=MTU1dWR0bzExbHBkZw==">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-</p>
+<a href="https://www.instagram.com/shashank_shekhar_3">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 
 ---
