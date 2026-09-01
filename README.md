@@ -67,6 +67,48 @@ I enjoy developing full-stack web applications, working with modern technologies
 
 ---
 
+
+## 💡 Skills
+
+### 💻 Web Development
+
+* Frontend Development
+* Responsive Web Design
+* React.js Development
+* MERN Stack Development
+
+### 🤖 AI & Machine Learning
+
+* Machine Learning Fundamentals
+* Data Preprocessing
+* Data Analysis & Visualization
+* Exploratory Data Analysis (EDA)
+* Model Training & Evaluation
+* Python for Data Science
+* Scikit-learn
+
+### 🗄️ Database & Backend
+
+* Node.js & Express.js
+* MongoDB & Mongoose
+* Backend Integration
+
+### 🧠 Programming & Computer Science
+
+* Python
+* Java
+* JavaScript
+* Object-Oriented Programming
+* Problem Solving
+
+### 🛠️ Development Tools
+
+* Git & GitHub
+* Visual Studio Code
+* API Testing
+* Deployment & Hosting
+
+
 ## 🚀 Featured Projects
 
 ### 🔎 Lost & Found Portal
@@ -92,6 +134,7 @@ A responsive personal portfolio website showcasing my skills, projects, experien
 * 🧠 **AI for All** — AI Chatbot Workshop
 * 📊 **Uniathena** — Python for Data Science & Machine Learning
 * ☕ **Balaji Infotech** — Java & Advanced Java Training
+* 💻 Analyze Infotech — MERN Stack Development
 
 ---
 
