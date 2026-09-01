@@ -156,9 +156,20 @@ Data Science
 
 ## 💭 Quote
 
-> **“We can only see a short distance ahead, but we can see plenty there that needs to be done.”**
->
-> — **Alan Turing**
+<p align="center">
+  <br>
+  <strong>✨ “We can only see a short distance ahead,<br>
+  but we can see plenty there that needs to be done.” ✨</strong>
+  <br><br>
+  <em>— Alan Turing</em>
+  <br><br>
+  💡 • 🧠 • 💻
+  <br>
+</p>
+
+<p align="center">
+  <sub>Keep learning. Keep building. Keep moving forward. 🚀</sub>
+</p>
 
 
 ---
