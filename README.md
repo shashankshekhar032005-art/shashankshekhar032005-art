@@ -50,7 +50,7 @@ I enjoy developing full-stack web applications, working with modern technologies
 </p>
 
 **Libraries & Frameworks:**
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+ `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
 
 
 ### 🗄️ Database
