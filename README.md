@@ -108,6 +108,7 @@ I enjoy developing full-stack web applications, working with modern technologies
 * API Testing
 * Deployment & Hosting
 
+---
 
 ## 🚀 Featured Projects
 
