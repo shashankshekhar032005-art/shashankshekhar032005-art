@@ -142,9 +142,12 @@ A responsive personal portfolio website showcasing my skills, projects, experien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankshekhar032005-art&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankshekhar032005-art&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankshekhar032005-art&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankshekhar032005-art&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shashankshekhar032005-art&theme=tokyonight&hide_border=true" />
 </p>
 
 
