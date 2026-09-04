@@ -203,10 +203,9 @@ Data Science
 
 <p align="center">
   <br>
-  <strong>✨ “We can only see a short distance ahead,<br>
-  but we can see plenty there that needs to be done.” ✨</strong>
+  <strong>✨ “The first principle is that you must not fool yourself—and you are the easiest person to fool.” ✨</strong>
   <br><br>
-  <em>— Alan Turing</em>
+  <em>— 🔬 Richard Feynman</em>
   <br><br>
   💡 • 🧠 • 💻
   <br>
