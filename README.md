@@ -203,9 +203,9 @@ Data Science
 
 <p align="center">
   <br>
-  <strong>✨ “The first principle is that you must not fool yourself—and you are the easiest person to fool.” ✨</strong>
+  <strong>✨ “If I have seen further, it is by standing on the shoulders of giants.” ✨</strong>
   <br><br>
-  <em>— 🔬 Richard Feynman</em>
+  <em>— 🔬 Isaac Newton</em>
   <br><br>
   💡 • 🧠 • 💻
   <br>
