@@ -47,7 +47,7 @@ I enjoy developing full-stack web applications, working with modern technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib">
-  <img src="https://cdn.simpleicons.org/seaborn" alt="Seaborn" width="45" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="45" height="45" alt="Seaborn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn">
 </p>
 
