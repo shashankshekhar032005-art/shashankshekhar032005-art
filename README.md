@@ -41,13 +41,24 @@ I enjoy developing full-stack web applications, working with modern technologies
 
 ### 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="60" height="60" alt="Seaborn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       width="60" height="60" alt="Python"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+       width="60" height="60" alt="NumPy"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+       width="60" height="60" alt="Pandas"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+       width="60" height="60" alt="Matplotlib"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"
+       width="60" height="60" alt="Seaborn"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+       width="60" height="60" alt="Scikit-learn"/>
 </p>
 
 **Libraries & Frameworks:**
@@ -62,10 +73,21 @@ I enjoy developing full-stack web applications, working with modern technologies
 
 ### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       width="60" height="60" alt="Git"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       width="60" height="60" alt="GitHub"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+       width="60" height="60" alt="VS Code"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+       width="60" height="60" alt="Jenkins"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"
+       width="60" height="60" alt="Grafana"/>
 </p>
 
 ---
