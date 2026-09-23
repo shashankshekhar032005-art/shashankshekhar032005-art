@@ -64,6 +64,8 @@ I enjoy developing full-stack web applications, working with modern technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60">
 </p>
 
 ---
