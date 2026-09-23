@@ -46,11 +46,12 @@ I enjoy developing full-stack web applications, working with modern technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45" height="45" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
 </p>
 
 **Libraries & Frameworks:**
- `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+ `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 
 
 ### 🗄️ Database
