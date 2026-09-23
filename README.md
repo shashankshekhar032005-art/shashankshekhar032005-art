@@ -43,22 +43,22 @@ I enjoy developing full-stack web applications, working with modern technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       width="60" height="60" alt="Python"/>
+       width="45" height="45" alt="Python"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-       width="60" height="60" alt="NumPy"/>
+       width="45" height="45" alt="NumPy"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-       width="60" height="60" alt="Pandas"/>
+       width="45" height="45" alt="Pandas"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-       width="60" height="60" alt="Matplotlib"/>
+       width="45" height="45" alt="Matplotlib"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"
-       width="60" height="60" alt="Seaborn"/>
+       width="45" height="45" alt="Seaborn"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
-       width="60" height="60" alt="Scikit-learn"/>
+       width="45" height="45" alt="Scikit-learn"/>
 </p>
 
 **Libraries & Frameworks:**
