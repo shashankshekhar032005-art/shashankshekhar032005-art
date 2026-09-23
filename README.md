@@ -203,9 +203,9 @@ Data Science
 
 <p align="center">
   <br>
-  <strong>✨ “If I have seen further, it is by standing on the shoulders of giants.” ✨</strong>
+  <strong>✨ “We cannot solve our problems with the same thinking we used when we created them.” ✨</strong>
   <br><br>
-  <em>— 🔬 Isaac Newton</em>
+  <em>— 🔬 Albert Einstein</em>
   <br><br>
   💡 • 🧠 • 💻
   <br>
